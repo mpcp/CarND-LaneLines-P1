@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 The input image is:
 ![](test_images/solidWhiteCurve.jpg)
 The output image is
-![Alt text](test_images_out/solidWhiteCurve.jpg)
+![](test_images_out/solidWhiteCurve.jpg)
 
 
 ---
